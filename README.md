@@ -69,7 +69,7 @@ Fitness platform with **personalized fitness + diet plans**.
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh252h)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh252/)  
 - 📧 [Email](mailto:rishabhvis15@gmail.com)  
 - 🖥️ [GitHub](https://github.com/Ris-git)  
 
