@@ -12,13 +12,13 @@ One interesting question becomes a tutorial, becomes a half-built side project, 
 
 I'm a CS student who got here by wanting to understand *why* things work, not just that they do. The stack I work with spans backend systems, DevOps, and cloud infrastructure. Off-screen: I think about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
 
-Currently finishing my degree, interning as an SRE at Broadridge Financial, and working on a few things I genuinely care about.
+Currently finishing my degree, interning as an android developer , and working on a few things I genuinely care about.
 
 ---
 
 ### right now
 
-- 🔧 SRE intern at **Broadridge Financial Solutions**
+- 🔧 working as an Android intern 
 - 🛠 building **Serenity** — a mental health platform where students' data actually stays private
 - 📖 somewhere between a distributed systems textbook and something entirely unrelated
 
@@ -32,21 +32,16 @@ Most institutional software treats privacy as a policy. This one treats it as ar
 
 ---
 
-**VidCord** · *media streaming for real network conditions*  
-Most streaming apps assume you have decent internet. A lot of people don't. Adaptive bitrate streaming and aggressive caching cut buffering by 40% on low-bandwidth networks — built 2G-friendly from the start, not patched in after.  
-`Node.js` `React` `PostgreSQL` `Docker` `Kubernetes`
-
----
-
 **CI/CD Pipeline** · *3-tier web app, fully automated*  
 Jenkins → Ansible → Docker → Kubernetes → AWS. Built end-to-end to understand how the whole system actually connects — not just configure individual tools in isolation. Automated provisioning, container orchestration, the full cycle.  
 `Jenkins` `Ansible` `Terraform` `Docker` `Kubernetes` `AWS`
 
 ---
 
-**X-Engine** · *fitness app with actual nutrition logic*  
-Integrates Fitness Calculator and Edamam Recipe APIs to compute meal plans instead of guessing at them. Built the UI to get out of the user's way — improved navigation efficiency by 40%, satisfaction by 30%.  
-`React` `Node.js` `Sass`
+**ForecastGPT** · *AI-driven forecasting meets portfolio optimisation*
+Engineered a production-style forecasting system that predicts market trends with Prophet, optimises portfolios, and explains insights through a natural-language AI assistant. Automated testing with CI/CD, deployed on the cloud, and backed by a persistent SQL data layer for reliable, reproducible financial intelligence.
+`Python` `Prophet` `LLM` `CircleCI` `Streamlit Cloud` `Supabase` `SQL` `MLOps`
+
 
 ---
 
