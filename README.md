@@ -26,26 +26,26 @@ I learn in rabbit holes.
 
 One interesting question becomes a tutorial, becomes a half-built side project, becomes three new things I'm now tracking in parallel. I've been doing this long enough to know it's not a flaw — most of what I actually know came from exactly this loop.
 
-I'm a CS student who got here by wanting to understand *why* things work, not just that they do. The stack I work with spans backend systems, DevOps, and cloud infrastructure. Off-screen: I think about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
+I'm a CS student who got here by wanting to understand *why* things work, not just that they do. The stack I work with spans backend systems, DevOps, and cloud infrastructure. Off-screen: I think and read about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
 
-Currently finishing my degree, interning as an android developer, and working on a few things I genuinely care about.
+Currently interning as an android developer, and working on a few things I genuinely care about.
 
 ---
 
-### ▍ right now
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=500&size=28&duration=300&pause=999999&color=F5F5F5&lines=%E2%96%8D+right+now&repeat=false&width=420&height=50" alt="right now" />
 
 ```text
   ⟢   working    →   android intern
-  ⟢   building   →   serenity · privacy-first mental health platform for unis
+  ⟢   building   →   serenity · privacy-first mental health platform for unis and some another side projects.
   ⟢   reading    →   somewhere between a distributed systems textbook
                      and something entirely unrelated
 ```
 
 ---
 
-### ▍ projects
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=500&size=28&duration=300&pause=999999&color=F5F5F5&lines=%E2%96%8D+projects&repeat=false&width=380&height=50" alt="projects" />
 
-#### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/supabase/3ECF8E"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="16"/></picture> &nbsp;Serenity &nbsp;·&nbsp; *mental health platform for universities*
+#### <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="16"/> &nbsp;Serenity &nbsp;·&nbsp; *mental health platform for universities*
 
 Most institutional software treats privacy as a policy. This one treats it as architecture. Admins can't read therapy notes or student journals — not because of a rule, but because of how the access control is built. Role-based permissions enforced at the database level. Designed to feel like support, not surveillance.
 
@@ -93,31 +93,68 @@ Engineered a production-style forecasting system that predicts market trends wit
 
 ---
 
-### ▍ stack
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=500&size=28&duration=300&pause=999999&color=F5F5F5&lines=%E2%96%8D+stack&repeat=false&width=300&height=50" alt="stack" />
 
-```text
-languages     javascript  ·  python  ·  c++
-backend       node.js  ·  express.js
-frontend      react.js  ·  next.js  ·  sass
-databases     postgresql  ·  mongodb  ·  supabase
-devops        docker  ·  kubernetes  ·  jenkins  ·  terraform  ·  ansible
-cloud         aws — ec2  ·  s3  ·  rds  ·  lambda  ·  vpc  ·  ecs  ·  cloudwatch
-monitoring    prometheus  ·  grafana  ·  nagios
-other         linux  ·  bash  ·  git  ·  networking fundamentals
-```
+<table>
+  <tr>
+    <td valign="middle" width="140"><sub><b>LANGUAGES</b></sub></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>BACKEND</b></sub></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>FRONTEND</b></sub></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,sass&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>DATABASES</b></sub></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>DEVOPS</b></sub></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>CLOUD</b></sub></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+      &nbsp;<sub><code>ec2</code> · <code>s3</code> · <code>rds</code> · <code>lambda</code> · <code>vpc</code> · <code>ecs</code> · <code>cloudwatch</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>MONITORING</b></sub></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+      &nbsp;<sub><code>nagios</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub><b>OTHER</b></sub></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=linux,bash,git&theme=dark" />
+      &nbsp;<sub>networking fundamentals</sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><b>▍ certifications</b></summary>
+---
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=500&size=28&duration=300&pause=999999&color=F5F5F5&lines=%E2%96%8D+github+stats&repeat=false&width=420&height=50" alt="github stats" />
 
-| credential | issuer | when |
-| :-- | :-- | --: |
-| Introduction to Large Language Models | Google Cloud / Coursera | Jan '24 |
-| Generative AI with LLMs | DeepLearning.AI / Coursera | Apr '24 |
-| Cloud Computing | NPTEL | Oct '24 |
+<div align="center">
 
-</details>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ris-git&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ris-git&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Ris-git&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 <details>
 <summary><b>▍ off-screen</b></summary>
@@ -125,12 +162,15 @@ other         linux  ·  bash  ·  git  ·  networking fundamentals
 <br/>
 
 ```text
-psychology   ·   reading anything that asks why we behave the way we do
-film         ·   slow cinema, anything wong kar-wai, the criterion rabbit hole
-writing      ·   short notes on bearblog when an idea won't leave me alone
+psychology   ·   one rabbit hole
+ai           ·   definitely a rabbit hole
+cinema       ·   an unexpected rabbit hole
+writing      ·   where all the rabbit holes meet
 ```
 
 </details>
+
+
 
 ---
 
@@ -140,19 +180,18 @@ writing      ·   short notes on bearblog when an idea won't leave me alone
 &nbsp;
 <a href="https://www.linkedin.com/in/rishabh252/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://bearblog.dev/mezz/"><img src="https://img.shields.io/badge/blog-FFB300?style=flat&logo=rss&logoColor=white" /></a>
+<a href="https://mezz.bearblog.dev/"><img src="https://img.shields.io/badge/blog-FFB300?style=flat&logo=rss&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:rishabhvis15@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<pre>
-                              ( • . •)
-                              / >  ╮  → into another rabbit hole
-</pre>
+<sub><i>·   ·   ·   →   into another rabbit hole   ·   ·   ·</i></sub>
+
+<br/>
 
 <sub>curiosity writes the roadmap. i just follow it.</sub>
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ris-git&label=visitors&color=474747&style=flat" />
 
