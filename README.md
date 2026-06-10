@@ -26,7 +26,10 @@ I learn in rabbit holes.
 
 One interesting question becomes a tutorial, becomes a half-built side project, becomes three new things I'm now tracking in parallel. I've been doing this long enough to know it's not a flaw — most of what I actually know came from exactly this loop.
 
-I'm a CS student who got here by wanting to understand *why* things work, not just that they do. The stack I work with spans backend systems, DevOps, and cloud infrastructure. Off-screen: I think and read about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
+I'm a CS student who is not tied to a single stack. I enjoy understanding how things work and building across backend, cloud, DevOps, Android, and AI.
+
+
+Off-screen: I think and read about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
 
 Currently interning as an android developer, and working on a few things I genuinely care about.
 
