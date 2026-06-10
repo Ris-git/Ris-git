@@ -1,74 +1,82 @@
-# Hi there 👋 I'm Rishabh Vishwakarma  
+<div align="center">
 
-🚀 *Aspiring DevOps & Backend Engineer | Cloud Enthusiast | AI Explorer*  
+# rishabh vishwakarma
 
-I’m passionate about building scalable systems, automating infrastructure, and solving real-world problems with a mix of *DevOps, Cloud, and AI/ML. Currently, I’m diving deep into **Cloud Computing (AWS, GCP), **Containerization (Docker, Kubernetes), and **CI/CD automation (Jenkins, GitHub Actions, Terraform, Ansible)* — while also exploring *Agentic AI and LLMs* for applied projects.  
-
----
-
-## 🛠️ Tech Stack  
-
-•⁠  ⁠*Languages*: C++, Python, JavaScript, HTML, CSS  
-•⁠  ⁠*Backend*: Node.js, Express.js, MERN Stack,
-•⁠  ⁠*Frontend*: React.js, Sass, Responsive UI/UX  
-•⁠  ⁠*Databases*: MongoDB, PostgreSQL, SQL  
-•⁠  ⁠*DevOps & Cloud*:  
-  - Docker, Docker Compose, Kubernetes  
-  - Jenkins, GitHub Actions, CI/CD pipelines  
-  - AWS (EC2, S3, RDS, Lambda, VPC, CloudWatch, CloudTrail, ECS)  
-  - Terraform, Ansible  
-  - Monitoring: Prometheus, Grafana, Nagios  
-•⁠  ⁠*Other*: Linux (bash scripting), Git/GitHub, Networking fundamentals  
-•⁠  ⁠*Soft Skills*: Problem-Solving, Team Player, Project Management, Adaptability  
+</div>
 
 ---
 
-## 📌 Featured Projects  
+I learn in rabbit holes.
 
-🔹 *CI/CD Pipeline (Jenkins, Ansible, Docker, Kubernetes, AWS)* (Sept’24)  
-Built a *3-Tier Web App CI/CD pipeline* using Jenkins to automate build, test, and deployment processes.  
-•⁠  ⁠Automated provisioning on AWS with Ansible  
-•⁠  ⁠Used Docker + Kubernetes for container orchestration, scalability & HA  
-•⁠  ⁠Automated end-to-end software development cycle  
+One interesting question becomes a tutorial, becomes a half-built side project, becomes three new things I'm now tracking in parallel. I've been doing this long enough to know it's not a flaw — most of what I actually know came from exactly this loop.
 
-🔹 *VidCord (Node.js, React, PostgreSQL, Docker, Kubernetes)* (Apr’24)  
-Media streaming platform optimized for *low-bandwidth networks (2G friendly)*.  
-•⁠  ⁠Adaptive bitrate streaming & caching → 40% less buffering  
-•⁠  ⁠Intuitive media library with fast search & categorization  
+I'm a CS student who got here by wanting to understand *why* things work, not just that they do. The stack I work with spans backend systems, DevOps, and cloud infrastructure. Off-screen: I think about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
 
-🔹 *X-Engine (React, Node.js, Sass, APIs)* (Jun’23)  
-Fitness platform with *personalized fitness + diet plans*.  
-•⁠  ⁠Integrated *Fitness Calculator API + Edamam Recipe API*  
-•⁠  ⁠Improved navigation efficiency by 40% & user satisfaction by 30%  
+Currently finishing my degree, interning as an SRE at Broadridge Financial, and working on a few things I genuinely care about.
 
 ---
 
-## 🎓 Certifications  
+### right now
 
-•⁠  ⁠*Introduction to Large Language Models* – Google Cloud, Coursera (Jan’24)  
-•⁠  ⁠*Generative AI with LLMs* – DeepLearning.AI, Coursera (Apr’24)  
-•⁠  ⁠*Cloud Computing* – NPTEL (Oct’24)  
-
----
+- 🔧 SRE intern at **Broadridge Financial Solutions**
+- 🛠 building **Serenity** — a mental health platform where students' data actually stays private
+- 📖 somewhere between a distributed systems textbook and something entirely unrelated
 
 ---
 
-## 📊 GitHub Stats  
+### projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ris-git&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ris-git&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me  
-
-•⁠  ⁠💼 [LinkedIn](https://www.linkedin.com/in/rishabh252/)  
-•⁠  ⁠📧 [Email](mailto:rishabhvis15@gmail.com)  
-•⁠  ⁠🖥️ [GitHub](https://github.com/Ris-git)  
-•⁠  ⁠✍️ [Bear Blog](https://bearblog.dev/mezz/dashboard/posts/zAFhQiZDeVyxJhACRfhN/)  
-
- 
+**Serenity** · *mental health platform for universities*  
+Most institutional software treats privacy as a policy. This one treats it as architecture. Admins can't read therapy notes or student journals — not because of a rule, but because of how the access control is built. Role-based permissions enforced at the database level. Designed to feel like support, not surveillance.  
+`Next.js 14` `Supabase` `PostgreSQL` `Row Level Security`
 
 ---
 
-⭐️ Always learning, always building — from DevOps pipelines to AI-powered tools.
+**VidCord** · *media streaming for real network conditions*  
+Most streaming apps assume you have decent internet. A lot of people don't. Adaptive bitrate streaming and aggressive caching cut buffering by 40% on low-bandwidth networks — built 2G-friendly from the start, not patched in after.  
+`Node.js` `React` `PostgreSQL` `Docker` `Kubernetes`
+
+---
+
+**CI/CD Pipeline** · *3-tier web app, fully automated*  
+Jenkins → Ansible → Docker → Kubernetes → AWS. Built end-to-end to understand how the whole system actually connects — not just configure individual tools in isolation. Automated provisioning, container orchestration, the full cycle.  
+`Jenkins` `Ansible` `Terraform` `Docker` `Kubernetes` `AWS`
+
+---
+
+**X-Engine** · *fitness app with actual nutrition logic*  
+Integrates Fitness Calculator and Edamam Recipe APIs to compute meal plans instead of guessing at them. Built the UI to get out of the user's way — improved navigation efficiency by 40%, satisfaction by 30%.  
+`React` `Node.js` `Sass`
+
+---
+
+### stack
+
+```text
+languages     javascript  ·  python  ·  c++
+backend       node.js  ·  express.js
+frontend      react.js  ·  next.js  ·  sass
+databases     postgresql  ·  mongodb  ·  supabase
+devops        docker  ·  kubernetes  ·  jenkins  ·  terraform  ·  ansible
+cloud         aws — ec2  ·  s3  ·  rds  ·  lambda  ·  vpc  ·  ecs  ·  cloudwatch
+monitoring    prometheus  ·  grafana  ·  nagios
+other         linux  ·  bash  ·  git  ·  networking fundamentals
+```
+
+<details>
+<summary>certifications</summary>
+<br>
+
+- Introduction to Large Language Models — Google Cloud / Coursera (Jan '24)
+- Generative AI with LLMs — DeepLearning.AI / Coursera (Apr '24)
+- Cloud Computing — NPTEL (Oct '24)
+
+</details>
+
+---
+
+[github](https://github.com/Ris-git) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/rishabh252/) &nbsp;·&nbsp; [blog](https://bearblog.dev/mezz/) &nbsp;·&nbsp; [email](mailto:rishabhvis15@gmail.com)
+
+---
+
+<sub>there are unfinished projects. that's where the good ideas live.</sub>
