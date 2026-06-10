@@ -51,13 +51,6 @@ Fitness platform with *personalized fitness + diet plans*.
 
 ---
 
-## 🎯 Current Focus  
-
-•⁠  ⁠Becoming a *top-tier DevOps Engineer in 6 months* 🚀  
-•⁠  ⁠Exploring *Cloud-native projects* with AWS/GCP + Terraform + Kubernetes  
-•⁠  ⁠Building *Agentic AI tools* for real-world automation  
-•⁠  ⁠Preparing for *NOC Engineer roles* with focus on Linux, networking, and client support  
-
 ---
 
 ## 📊 GitHub Stats  
