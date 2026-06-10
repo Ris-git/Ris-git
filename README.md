@@ -7,7 +7,7 @@
 ██╔══██╗██║╚════██║██╔══██║██╔══██║██╔══██╗██╔══██║
 ██║  ██║██║███████║██║  ██║██║  ██║██████╔╝██║  ██║
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝╚═╝  ╚═╝
-            v  i  s  h  w  a  k  a  r  m  a
+
 </pre>
 
 <a href="https://github.com/Ris-git">
@@ -16,7 +16,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-currently_finishing_my_degree-1a1a1a?style=flat" />
 <img src="https://img.shields.io/badge/-open_to_summer_'26_internships-1a1a1a?style=flat" />
 
 </div>
