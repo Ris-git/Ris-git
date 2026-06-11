@@ -11,7 +11,7 @@
 </pre>
 
 <a href="https://github.com/Ris-git">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=909090&center=true&vCenter=true&width=620&lines=cs+student+%E2%80%A2+android+intern+%E2%80%A2+building+in+the+open;backend+%C2%B7+devops+%C2%B7+cloud;most+of+what+i+know+came+from+a+rabbit+hole" alt="rotating tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=909090&center=true&vCenter=true&width=620&lines=cs+student+%E2%80%A2+SDE+intern+%E2%80%A2+building+in+the+open;backend+%C2%B7+devops+%C2%B7+AI/ML;most+of+what+i+know+came+from+a+rabbit+hole" alt="rotating tagline" />
 </a>
 
 <br/>
@@ -31,15 +31,15 @@ I'm a CS student who is not tied to a single stack. I enjoy understanding how th
 
 Off-screen: I think and read about psychology, watch a lot of film, and have opinions about things that have no business intersecting with software engineering — until they do.
 
-Currently interning as an android developer, and working on a few things I genuinely care about.
+Currently SDE Intern @ Cyborn, and working on a few things I genuinely care about.
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=500&size=28&duration=300&pause=999999&color=F5F5F5&lines=%E2%96%8D+right+now&repeat=false&width=420&height=50" alt="right now" />
 
 ```text
-  ⟢   working    →   android intern
-  ⟢   building   →   serenity · privacy-first mental health platform for unis and some another side projects.
+  ⟢   working    →   SDE intern
+  ⟢   building   →   serenity · privacy-first mental health platform for unis and some other side projects.
   ⟢   reading    →   somewhere between a distributed systems textbook
                      and something entirely unrelated
 ```
