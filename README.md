@@ -33,6 +33,9 @@ Off-screen: I think and read about psychology, watch a lot of film, and have opi
 
 Currently SDE Intern @ Cyborn, and working on a few things I genuinely care about.
 
+If you're curious about what I've built, what I'm learning, or what I'm thinking about lately, you can find it all here:
+### → [Portfolio](https://myportfolio-azure-ten-25.vercel.app/)
+
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=500&size=28&duration=300&pause=999999&color=F5F5F5&lines=%E2%96%8D+right+now&repeat=false&width=420&height=50" alt="right now" />
